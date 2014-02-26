@@ -1,3 +1,11 @@
+# CodeComposer Studio
+.ccsproject
+.cproject
+.project
+.settings/
+targetConfigs/
+
+
 # Object files
 *.o
 *.ko
