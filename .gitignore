@@ -4,7 +4,8 @@
 .project
 .settings/
 targetConfigs/
-
+.launches/
+Debug
 
 # Object files
 *.o
